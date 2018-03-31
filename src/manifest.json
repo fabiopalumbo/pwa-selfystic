@@ -1,0 +1,14 @@
+{
+  "name": "Progressive Web Cat",
+  "short_name": "PWCat",
+  "description": "A funny cat image generator",  
+  "icons": [{
+    "src": "http://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#673ab7"
+}
